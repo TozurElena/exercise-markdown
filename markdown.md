@@ -12,10 +12,10 @@
 * All bold and italic	*** ***  ***Attention***
 
 ## Lists
-- HTML
-- CSS
-- JS
-- PHP
+1. HTML
+2. CSS
+3. JS
+4. PHP
 
 ## Images
 Adding ! text [] and link ()
