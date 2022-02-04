@@ -1,6 +1,6 @@
 # exercise-markdown
 
-C'est fisher avec description [Markdown] (https://github.com/TozurElena/exercise-markdown/blob/main/markdown.md).
+C'est fisher avec description [Markdown](https://github.com/TozurElena/exercise-markdown/blob/main/markdown.md).
 
 ## List of the group’s member:
 1. Loic
